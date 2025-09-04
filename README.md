@@ -1,5 +1,5 @@
 # PF-LAB-03--24K-2030-
-My name is Mohammad Osama.I am a Cyber Security Student.
-at Fast University , currently studying Programming Fundamentals
+My name is Mohammad Osama.I am a Cyber Security Student
+at Fast University currently studying Programming Fundamentals
 
 
