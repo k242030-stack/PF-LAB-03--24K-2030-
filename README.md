@@ -4,7 +4,7 @@
 * Applied Calculus
 * Oops
 
-1 .Wicket
+1. Wicket
 2. Boundary
 3. goal
 
