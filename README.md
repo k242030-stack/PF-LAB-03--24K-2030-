@@ -1,4 +1,4 @@
-# PF-LAB-03--24K-2030
+# PF-LAB-03-24K-2030
 
 * Applied Physics
 * Applied Calculus
