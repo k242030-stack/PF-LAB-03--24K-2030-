@@ -4,10 +4,10 @@
 * Applied Calculus
 * Oops
 
-1. Wicket
-2. Boundary
-3. goal
+1 . Wicket
+2 . Boundary
+3 . goal
 
-**_My name is Mohammad Osama. I am a Cyber Security Student at FAST University currently studying programming Fundamentals._**
+**_ My name is Mohammad Osama. I am a Cyber Security Student at FAST University currently studying programming Fundamentals. _**
 
 
