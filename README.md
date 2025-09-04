@@ -8,5 +8,5 @@
 2. Boundary
 3. goal
 
-**_ My name is Mohammad Osama. I am a Cyber Security Student at FAST University currently studying Programming Fundamentals. _**
+***My name is Mohammad Osama. I am a Cyber Security Student at FAST University currently studying Programming Fundamentals.***
 
